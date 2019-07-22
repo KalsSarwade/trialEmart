@@ -1,4 +1,0 @@
-C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\bin\Trial_Emart.dll
-C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\bin\Trial_Emart.pdb
-C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.dll
-C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.pdb
