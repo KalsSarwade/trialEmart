@@ -1,0 +1,14 @@
+J:\CDAC\Emart\Login\Login\bin\Login.dll
+J:\CDAC\Emart\Login\Login\bin\Login.pdb
+J:\CDAC\Emart\Login\Login\obj\Debug\Login.dll
+J:\CDAC\Emart\Login\Login\obj\Debug\Login.pdb
+C:\Users\bhosa\Desktop\Login\Login\bin\Login.dll
+C:\Users\bhosa\Desktop\Login\Login\bin\Login.pdb
+C:\Users\bhosa\Desktop\Login\Login\obj\Debug\Login.dll
+C:\Users\bhosa\Desktop\Login\Login\obj\Debug\Login.pdb
+C:\Users\bhosa\Desktop\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Login\Login\bin\Login.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Login\Login\bin\Login.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Login\Login\obj\Debug\Login.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Login\Login\obj\Debug\Login.pdb

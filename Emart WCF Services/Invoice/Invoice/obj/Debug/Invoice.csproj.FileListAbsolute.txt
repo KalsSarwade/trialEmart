@@ -1,0 +1,4 @@
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Invoice\Invoice\bin\Invoice.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Invoice\Invoice\bin\Invoice.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Invoice\Invoice\obj\Debug\Invoice.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Invoice\Invoice\obj\Debug\Invoice.pdb

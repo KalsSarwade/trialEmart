@@ -1,0 +1,5 @@
+J:\CDAC\Emart\AddtoCartService\AddtoCartService\bin\AddtoCartService.dll
+J:\CDAC\Emart\AddtoCartService\AddtoCartService\bin\AddtoCartService.pdb
+J:\CDAC\Emart\AddtoCartService\AddtoCartService\obj\Debug\AddtoCartService.csprojResolveAssemblyReference.cache
+J:\CDAC\Emart\AddtoCartService\AddtoCartService\obj\Debug\AddtoCartService.dll
+J:\CDAC\Emart\AddtoCartService\AddtoCartService\obj\Debug\AddtoCartService.pdb

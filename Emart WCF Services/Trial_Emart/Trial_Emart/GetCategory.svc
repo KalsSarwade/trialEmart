@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Trial_Emart.GetCategory" CodeBehind="GetCategory.svc.cs" %>

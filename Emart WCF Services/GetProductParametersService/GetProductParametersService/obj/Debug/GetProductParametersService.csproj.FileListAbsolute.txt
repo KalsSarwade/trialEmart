@@ -1,0 +1,4 @@
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductParametersService\GetProductParametersService\bin\GetProductParametersService.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductParametersService\GetProductParametersService\bin\GetProductParametersService.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductParametersService\GetProductParametersService\obj\Debug\GetProductParametersService.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductParametersService\GetProductParametersService\obj\Debug\GetProductParametersService.pdb

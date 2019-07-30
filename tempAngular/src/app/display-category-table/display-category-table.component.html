@@ -1,0 +1,19 @@
+<p>
+  display-category-table works!
+</p>
+<table>
+    <tr>
+        <ng-container *ngFor= 'let cats of cat'>
+            <td>
+              <div *ngIf = 'cats.flag == 0'>
+                <a [routerLink]="['/category',cats.category]">
+                  <img src='.\assets\images\{{cats.imageURL}}' height="100px" width="100px"/>
+                </a>
+              </div>
+              <br>
+              <b>{{cats.category}}</b>
+            
+            </td> 
+        </ng-container>
+    </tr>
+</table>

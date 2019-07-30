@@ -1,0 +1,19 @@
+C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\bin\Trial_Emart.dll
+C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\bin\Trial_Emart.pdb
+C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.dll
+C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.pdb
+C:\Users\vita1\Desktop\Akash\CSS\Emart\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.csprojResolveAssemblyReference.cache
+J:\CDAC\Emart\Trial_Emart\Trial_Emart\bin\Trial_Emart.dll
+J:\CDAC\Emart\Trial_Emart\Trial_Emart\bin\Trial_Emart.pdb
+J:\CDAC\Emart\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.dll
+J:\CDAC\Emart\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.pdb
+C:\Users\vita1\Desktop\Trial_Emart\Trial_Emart\bin\Trial_Emart.dll
+C:\Users\vita1\Desktop\Trial_Emart\Trial_Emart\bin\Trial_Emart.pdb
+C:\Users\vita1\Desktop\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.csprojResolveAssemblyReference.cache
+C:\Users\vita1\Desktop\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.dll
+C:\Users\vita1\Desktop\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Trial_Emart\Trial_Emart\bin\Trial_Emart.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Trial_Emart\Trial_Emart\bin\Trial_Emart.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\Trial_Emart\Trial_Emart\obj\Debug\Trial_Emart.csprojResolveAssemblyReference.cache

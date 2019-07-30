@@ -1,0 +1,55 @@
+<p>
+  login works!
+</p>
+
+
+<div class="container">
+  <div style="margin: 50px; " class="col-sm-12">
+    <form [formGroup]="LogForm" class="form-horizontal" id="LogForm" role="form" (ngSubmit)="onSubmit(LogForm)" novalidate>
+
+
+      <h1 style="margin-left: 455px; margin-top:20px;"><b>Login</b></h1>
+      <br />
+      <br />
+
+      
+
+      <div class="container center_div">
+        <div class="form-group">
+          <label class="col-md-8 control-label">
+            <div class="col-md-12" inputGroupContainer>
+              <input type="text" formControlName="emailId" class="form-control" id="emailId" placeholder="Enter EmailId">
+              <div *ngIf="emailId.touched && emailId.invalid" class="alert alert-danger">
+                <div *ngIf="emailId.errors.required">* EmailId Required</div>
+              </div>
+            </div>
+          </label>
+        </div>
+      </div>
+
+      <div class="container center_div">
+        <div class="form-group">
+          <label class="col-md-8 control-label">
+            <div class="col-md-12" inputGroupContainer>
+              <input type="password" formControlName="password" class="form-control" id="password" placeholder="Enter Password">
+              <div *ngIf="password.touched && password.invalid" class="alert alert-danger">
+                <div *ngIf="password.errors.required">* Password Required</div>
+              </div>
+            </div>
+          </label>
+        </div>
+      </div>
+
+     
+
+      <div class="form-group">
+        <div class="col-md-4" style="margin-top:10px; margin-left: 300px; margin-bottom: 20px">
+          <button type="submit" style="height: 40px; " class="btn btn-primary btn-block">Login</button>
+        </div>
+      </div>
+
+      <span class="psw">New Customer? <a href="customer">Register Here</a></span>
+
+    </form>
+  </div>
+</div>

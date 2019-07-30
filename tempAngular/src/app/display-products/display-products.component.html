@@ -1,10 +1,25 @@
 <p>
   display-products works!
 </p>
+<table>
+<tr>
 <ng-container *ngFor ='let prod of prodWcf'>
-  
+  <td>
+    <a [routerLink]="['/product',prod.productId]">
+      <img src='.\assets\images\{{prod.imageURL}}' height="200px" width="200px"/>
+    </a>
   <br>
-  <img src='prod.imageURL'/>
+    <label>Name: </label>{{prod.productName}}
   <br>
-  <label>Product Name: </label>{{prod.productName}}
+    <label>Price: </label>{{prod.listPrice}}
+  <br>
+    <label>CardHolder Price: </label>{{prod.cardHolderPrice}}
+  <br>
+  <!--{{prod|json}}-->
+  </td>
+
 </ng-container>
+</tr>
+
+
+</table>

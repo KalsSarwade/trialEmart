@@ -11,7 +11,7 @@ import { ActivatedRoute } from '@angular/router';
 export class DisplayProductsComponent implements OnInit {
 
   prodWcf : Iproducts[];
-  constructor(private prodservice : GetProductsService) { }
+  constructor(private prodservice : GetProductsService ,private _activatedroute: ActivatedRoute) { }
 
   
   ngOnInit() 

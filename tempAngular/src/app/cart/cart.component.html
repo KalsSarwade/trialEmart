@@ -1,0 +1,47 @@
+<p>
+  cart works!
+</p>
+<fieldset>
+  <legend><h3>SHOPPING CART</h3></legend>
+<form (submit)="isValid()">
+  <!-- area for products desc  -->
+  <!--  -->
+  <table>
+    <tr>
+      <th>Image</th>
+      <th>Name</th>
+      <th>List Price</th>
+      <th>Card Holder Price</th>
+      <th>Points</th>
+      <th>Quantity</th>
+    </tr>
+    <ng-container *ngFor= 'let c of cart'>
+      <tr>
+        <td><img src="./assets/images/{{c.imageURL}}" height="25px" width="25px" /></td>
+        <td>{{c.productName}}</td>
+        <td>RS. {{c.listPrice}}</td>
+        <td>RS. {{c.cardHolderPrice}}</td>
+        <td>{{c.point}}</td>
+        <td>{{c.quantity}}</td>
+      </tr>
+    </ng-container>
+    <tr>
+
+    </tr>
+  </table>
+  <!-- {{cart|json}} -->
+  <br>
+  <hr>
+  <div align="center">
+  <input type="checkbox" name="isCardHolder" value="payByCard" id="isCardHolder" (click)="setchkval1()"  />
+  Do you want to pay using Smart-Card?
+  <br>
+  <input type="checkbox" name="payByPoints" value="payByPoints" id="payByPoints" (click)='setchkval2()' />
+  Do you want to pay using Points?
+ 
+  <br>
+  <br>
+  <button type="submit" class="btn btn-success" id="pay">Make Payment</button>
+</div>
+</form>
+</fieldset>

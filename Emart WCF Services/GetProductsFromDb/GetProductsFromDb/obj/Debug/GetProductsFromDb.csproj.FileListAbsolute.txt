@@ -1,0 +1,5 @@
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductsFromDb\GetProductsFromDb\bin\GetProductsFromDb.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductsFromDb\GetProductsFromDb\bin\GetProductsFromDb.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductsFromDb\GetProductsFromDb\obj\Debug\GetProductsFromDb.dll
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductsFromDb\GetProductsFromDb\obj\Debug\GetProductsFromDb.pdb
+C:\Users\vita1\Desktop\Emart group 6\Emart WCF Services\GetProductsFromDb\GetProductsFromDb\obj\Debug\GetProductsFromDb.csprojResolveAssemblyReference.cache

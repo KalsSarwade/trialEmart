@@ -1,0 +1,19 @@
+<p>
+  sub-category works!
+</p>
+<table>
+    <tr>
+<ng-container *ngFor='let subb of subcat'>
+      <td>
+        <div *ngIf ='subb.flag == 0'>
+          <a [routerLink]="['/subcategory',subb.subCategory]">
+          <img src='.\assets\images\{{subb.imageURL}}' height="200px" width="200px"/>
+          </a>
+        </div>
+          <br>
+          <b>{{subb.subCategory}}</b>
+      </td>
+    
+</ng-container>
+</tr>
+</table>

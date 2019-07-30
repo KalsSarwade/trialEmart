@@ -1,0 +1,30 @@
+<p>
+  products-by-category works!
+</p>
+<table>
+    <tr>
+    <ng-container *ngFor ='let prod of product'>
+      <td>
+        <a [routerLink]="['/product',prod.productId]">
+          <img src='.\assets\images\{{prod.imageURL}}' height="200px" width="200px"/>
+        </a>
+      <br>
+        <label>Name: </label>{{prod.productName}}
+      <br>
+        <label>Price: </label>{{prod.listPrice}}
+      <br>
+        <label>CardHolder Price: </label>{{prod.cardHolderPrice}}
+      <br>
+      <!--{{prod|json}}-->
+      </td>
+    
+    </ng-container>
+    </tr>
+    
+    
+    </table>
+<!-- <ng-container *ngFor='let prod of product'>
+{{prod.categoryId}}
+<br>
+{{prod.productId}}
+</ng-container> -->

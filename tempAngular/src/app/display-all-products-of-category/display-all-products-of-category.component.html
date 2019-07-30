@@ -1,0 +1,26 @@
+<p>
+  display-all-products-of-category works!
+</p>
+<table>
+
+<tr>
+<ng-container *ngFor='let sub of subcat'>
+  <td>
+    
+    <a [routerLink]="['/productOfCategory',sub.categoryId]">
+<img src=".\assets\images\{{sub.imageURL}}" height="200px" width="200px">
+</a>
+
+<br>
+<b>
+  {{sub.subCategory}}
+</b>
+<br>
+{{sub.categoryId}}
+<br>
+{{sub.flag}}
+<br>
+</td>
+</ng-container>
+</tr>
+</table>

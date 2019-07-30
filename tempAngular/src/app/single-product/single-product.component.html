@@ -1,3 +1,39 @@
 <p>
   single-product works!
-</p>
+<!-- </p>{{singleprod |json}} -->
+<form (submit)="submitToCart()">
+  <input type="submit" value="Add To Cart" id="tocart" name="tocart"/>
+</form>
+
+<img src='.\assets\images\{{singleprod.imageURL}}' height="300px" width="300px"/>
+<br>
+{{singleprod.imageURL}}
+<b>{{singleprod.productId}}</b>
+ &nbsp; &nbsp;
+<b>{{singleprod.productName}}</b>
+
+<h3>
+  product descripton
+</h3>
+{{prodDesc.longDescription}}
+<br>
+{{prodDesc.shortDescription}}
+<br>
+
+<h3>
+  product parameters
+</h3>
+<table>
+  <ng-container *ngFor ='let prod of prodParams'>
+    <!-- <div *ngIf ='prod.productId == singleprod.productId'> -->
+        <tr>
+          <th>{{prod.parameterName}}</th>
+          <td>{{prod.value}}</td>
+        </tr>
+    <!-- </div> -->
+  </ng-container>
+</table>
+<br>
+
+
+
